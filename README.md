@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Wedding Invitation Landing Page 
 
 
@@ -25,3 +26,6 @@
 # Credits
 - Floral vector created by BiZkettE1 - www.freepik.com (https://www.freepik.com/free-photos-vectors/background)
 - Photos from unsplash.com (https://www.unsplash.com)
+=======
+# Salwa_Wedding.github.io
+>>>>>>> 15f6111b244049cd707a16b25884db95d5e59b3f

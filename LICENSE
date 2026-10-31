@@ -1,21 +1,36 @@
-MIT License
+# Selva & Muhammed Nawaz — Wedding Invitation
 
-Copyright (c) 2020 Daeng M. Feisal
+A wedding invitation website created to celebrate the wedding of Selva and Muhammed Nawaz.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Wedding Details
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- **Date:** 26 December 2026
+- **Nikah:** 10:00 AM — Masjid Taqwa, Kudallur
+- **Reception:** 11:00 AM–2:00 PM — MKM Convention Center, Aloor
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Features
+
+- Elegant wedding invitation design
+- Responsive layout for mobile and desktop
+- Animated opening invitation screen
+- Scroll animations
+- QR code for sharing the invitation
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## Local Setup
+
+1. Clone or download this repository.
+2. Open `index.html` in a browser or use the VS Code Live Server extension.
+
+## Deployment
+
+The website can be published using GitHub Pages.
+
+## Credits
+
+This project is customized from an existing wedding invitation template. Refer to the repository's `LICENSE` file for licensing information.git status
